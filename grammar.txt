@@ -46,27 +46,6 @@ VP -> vờn
 NN -> chân
 Adjp -> thon
 
-# 5. Anh vẫn thấy màu son trên môi em ánh sáng
-S -> NP VP
-VP -> VP NP
-VP -> Advp VB
-NP -> NP Adjp
-NP -> NP PP
-NP -> NN NN
-PP -> IN NP
-NP -> NN PRP
-Adjp -> JJ JJ
-NP -> anh
-Advp -> vẫn
-VB -> thấy
-NN -> màu
-NN -> son
-IN -> trên
-NP -> môi
-NN -> môi
-PRP -> em
-JJ -> ánh
-JJ -> sáng
 
 
 
