@@ -55,7 +55,7 @@ VP -> VP PP
 PP -> P NP
 NP -> papa
 N -> caviar
-N -> spoong
+N -> spoon
 V -> ate
 P -> with
 Det -> the
