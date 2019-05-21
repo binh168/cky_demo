@@ -35,7 +35,7 @@ PRP -> em
 Adjp -> lấp-lánh
 Adjp -> đẹp
 Adjp -> beautiful
-NN -> bông hoa
+NN -> bông-hoa
 Det -> một
 # 4. Váy ngắn vờn chân thon
 S -> NP VP
@@ -71,4 +71,4 @@ Det ->a
 # replace: "con phố" = con-phố
 # replace: "đại dương" = đại-dương
 # replace: "lấp lánh" = lấp-lánh
-# 
+# replace: "bông hoa" = bông-hoa
