@@ -46,6 +46,20 @@ VP -> vờn
 NN -> chân
 Adjp -> thon
 
+# 5. Papa ate the caviar with a spoong
+S -> NP VP
+NP -> Det N
+NP -> NP PP
+VP -> V NP
+VP -> VP PP
+PP -> P NP
+NP -> Papa
+N -> caviar
+N -> spoong
+V -> ate
+P -> with
+Det -> the
+Det ->a
 
 
 
