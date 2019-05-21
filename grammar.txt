@@ -33,7 +33,10 @@ VB -> theo
 NN -> chân
 PRP -> em
 Adjp -> lấp-lánh
-
+Adjp -> đẹp
+Adjp -> beautiful
+NN -> bông hoa
+Det -> một
 # 4. Váy ngắn vờn chân thon
 S -> NP VP
 NP -> NN Adjp
